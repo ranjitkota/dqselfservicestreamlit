@@ -1,0 +1,13 @@
+streamlit
+hydralit_components
+datetime
+pandas
+Image
+option_menu
+numpy
+parser
+openpyxl
+date
+time
+re
+relativedelta
