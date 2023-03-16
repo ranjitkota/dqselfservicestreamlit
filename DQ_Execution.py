@@ -13,13 +13,13 @@ import time
 import re
 from dateutil.relativedelta import relativedelta
 
-image_green_bar = Image.open(
-    'C:/Users/EE122VC/OneDrive - EY/Ranjit/Project/CCB/DQ test files/Files/Green_bar.jpg')
-image_ccb_logo = Image.open(
-    'C:/Users/EE122VC/OneDrive - EY/Ranjit/Project/CCB/DQ test files/Files/CCB_logo.jpg')
+#image_green_bar = Image.open(
+#    'C:/Users/EE122VC/OneDrive - EY/Ranjit/Project/CCB/DQ test files/Files/Green_bar.jpg')
+#image_ccb_logo = Image.open(
+#    'C:/Users/EE122VC/OneDrive - EY/Ranjit/Project/CCB/DQ test files/Files/CCB_logo.jpg')
 
-st.image(image_green_bar)
-st.image(image_ccb_logo)
+#st.image(image_green_bar)
+#st.image(image_ccb_logo)
 
 
 def get_data_profiling_stats(df, batch_start_date):
