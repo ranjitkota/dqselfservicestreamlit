@@ -7,7 +7,7 @@ numpy
 python-dateutil
 #parser
 openpyxl
-date
+#date
 time
 re
 relativedelta
