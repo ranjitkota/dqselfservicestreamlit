@@ -9,6 +9,6 @@ python-dateutil
 openpyxl
 #date
 #time
-re
+#re
 relativedelta
 #Image
