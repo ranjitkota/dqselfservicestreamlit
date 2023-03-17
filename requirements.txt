@@ -2,7 +2,7 @@ streamlit
 hydralit_components
 datetime
 pandas
-option_menu==0.32
+streamlit-option-menu
 numpy
 parser
 openpyxl
